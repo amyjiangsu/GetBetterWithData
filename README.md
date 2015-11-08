@@ -11,5 +11,6 @@ Tools for exploratory analysis and data visualization: Python, GoogleVis
 Tools for model building: Python, R
 
 ### Product
-Tools for making data product: R shinyApp
 https://amyjiangsu.shinyapps.io/health_cost_predict 
+
+Tools for making data product: R shinyApp
